@@ -1,0 +1,20 @@
+  /*-------------------------------------------
+                Our Services
+----------------------------------------------*/
+.course-duration-budget {
+    display: flex;
+    justify-content: space-between;
+}
+/* .course-div{
+    height:280px;
+} */
+.service-card:hover {
+    overflow: hidden;
+    box-shadow: 0px 3px 10px 0px #158fff87;
+    background-color: #ffffff;
+}
+
+.serviceImage{
+    height:15rem;
+    width:100%;
+}
